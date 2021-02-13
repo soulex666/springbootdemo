@@ -1,6 +1,6 @@
 package com.andreev.springboot.dbrepository;
 
-import com.andreev.springboot.entity.Item;
+import com.andreev.springboot.entities.Item;
 
 import java.util.ArrayList;
 import java.util.List;

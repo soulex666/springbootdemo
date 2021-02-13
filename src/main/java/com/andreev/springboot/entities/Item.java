@@ -1,4 +1,4 @@
-package com.andreev.springboot.entity;
+package com.andreev.springboot.entities;
 
 import lombok.*;
 
