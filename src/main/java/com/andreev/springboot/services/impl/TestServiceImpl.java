@@ -1,5 +1,6 @@
-package com.andreev.springboot.services;
+package com.andreev.springboot.services.impl;
 
+import com.andreev.springboot.services.TestService;
 import org.springframework.stereotype.Service;
 
 @Service
